@@ -43,4 +43,13 @@ urls = ('A'..'Z').map do |letter|
   "https://www.parliament.gh/mps?az&filter=#{letter}"
 end
 
-puts EveryPoliticianScraper::ScraperData.new(urls).csv
+# Override the default data to sort the final list
+#  (this can't be done in :members above, as that would only sort one
+#  page at a time)
+class SortedData < EveryPoliticianScraper::ScraperData
+  def data
+    super.sort_by { |h| h[:id].to_s.to_i }
+  end
+end
+
+puts SortedData.new(urls).csv
