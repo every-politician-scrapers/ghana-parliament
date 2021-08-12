@@ -90,6 +90,7 @@ id,name,party,constituency
 126,ABDUL-SALAM ADAMS,National Democratic Congress (NDC),NEW EDUBIASE Constituency
 129,KOBINA TAHIR HAMMOND,New Patriotic Party (NPP),ADANSI ASOKWA Constituency
 131,PATRICK BOAKYE-YIADOM,New Patriotic Party (NPP),OBUASI EAST Constituency
+134,EMMANUEL AKWASI GYAMFI,New Patriotic Party (NPP),ODOTOBIRI Constituency
 135,GEORGE KWABENA OBENG TAKYI,New Patriotic Party (NPP),MANSO NKWANTA Constituency
 136,YAW FRIMPONG ADDO,New Patriotic Party (NPP),MANSO ADUBIA Constituency
 138,BENITO OWUSU-BIO,New Patriotic Party (NPP),ATWIMA NWABIAGYA NORTH Constituency
@@ -102,7 +103,6 @@ id,name,party,constituency
 148,VINCENT EKOW ASSAFUAH,New Patriotic Party (NPP),OLD TAFO Constituency
 149,OSEI KYEI-MENSAH-BONSU,New Patriotic Party (NPP),SUAME Constituency
 150,PATRICIA APPIAGYEI,New Patriotic Party (NPP),ASOKWA Constituency
-151,EMMANUEL MARFO,New Patriotic Party (NPP),OFORIKROM Constituency
 152,MOHAMMED MUBARAK MUNTAKA,National Democratic Congress (NDC),ASAWASE Constituency
 153,FRANCISCA OTENG MENSAH,New Patriotic Party (NPP),KWABRE EAST Constituency
 154,WILLIAM OWURAKU AIDOO,New Patriotic Party (NPP),AFIGYA KWABRE SOUTH Constituency
@@ -113,11 +113,11 @@ id,name,party,constituency
 166,BAWAH MUHAMMAD BRIAMAH,National Democratic Congress (NDC),EJURA SEKYEREDUMASE Constituency
 167,MAVIS NKANSAH-BOADU,New Patriotic Party (NPP),AFIGYA SEKYERE EAST Constituency
 168,ISAAC YAW OPOKU,New Patriotic Party (NPP),OFFINSO SOUTH Constituency
-169,COLLINS AUGUSTINE NTIM,New Patriotic Party (NPP),OFFINSO NORTH Constituency
 171,FRANCIS MANU-ADABOR,New Patriotic Party (NPP),AHAFO ANO SOUTH EAST Constituency
 173,OSCAR OFORI LARBI,National Democratic Congress (NDC),AOWIN Constituency
 179,SAMPSON AHI,National Democratic Congress (NDC),BODI Constituency
 181,Richard Acheampong,National Democratic Congress (NDC),BIA EAST Constituency
+184,COLLINS DAUDA,National Democratic Congress (NDC),ASUTIFI SOUTH Constituency
 185,PATRICK BANOR,New Patriotic Party (NPP),ASUTIFI NORTH Constituency
 186,BENJAMIN SEKYERE YEBOAH,New Patriotic Party (NPP),TANO SOUTH Constituency
 187,FREDA PREMPEH,New Patriotic Party (NPP),TANO NORTH Constituency
@@ -137,7 +137,6 @@ id,name,party,constituency
 214,WISDOM GIDISU,National Democratic Congress (NDC),KRACHI EAST Constituency
 215,HELEN ADJOA NTOSO,National Democratic Congress (NDC),KRACHI WEST Constituency
 217,GEOFFREY KINI,National Democratic Congress (NDC),NKWANTA SOUTH Constituency
-218,JOHN KWABENA BLESS OTI,National Democratic Congress (NDC),NKWANTA NORTH Constituency
 219,DANIEL NSALA WAKPAL,National Democratic Congress (NDC),KPANDAI Constituency
 221,ABUKARI DAWUNI,National Democratic Congress (NDC),WULENSI Constituency
 222,JABAAH JOHN BENNAM,New Patriotic Party (NPP),ZABZUGU Constituency
@@ -153,6 +152,7 @@ id,name,party,constituency
 237,YUSIF SULEMANA,National Democratic Congress (NDC),BOLE BAMBOI Constituency
 239,SAMUEL ABDULAI JINAPOR,New Patriotic Party (NPP),DAMONGO Constituency
 240,MAHAMA ASEI SEINI,New Patriotic Party (NPP),DABOYA/MANKARIGU Constituency
+241,John Abdulai Jinapor,National Democratic Congress (NDC),YAPEI KUSAWGU Constituency
 242,ZUWERA MOHAMMED IBRAHIMAH,National Democratic Congress (NDC),SALAGA SOUTH Constituency
 244,ABDUL-RASHID HASSAN PELPUO,National Democratic Congress (NDC),WA CENTRAL Constituency
 245,PETER LANCHENE TOOBU,National Democratic Congress (NDC),WA WEST Constituency
