@@ -25,6 +25,7 @@ id,name,party,constituency
 32,QUEENSTAR MAAME POKUAH SAWYERR,National Democratic Congress (NDC),AGONA EAST Constituency
 34,KEN OHENE AGYAPONG,New Patriotic Party (NPP),ASSIN CENTRAL Constituency
 35,JAMES GYAKYE QUAYSON,National Democratic Congress (NDC),ASSIN NORTH Constituency
+36,JOHN NTIM FORDJOUR,New Patriotic Party (NPP),ASSIN SOUTH Constituency
 37,DAVID T. D. VONDEE,National Democratic Congress (NDC),TWIFO ATTI MORKWA Constituency
 39,FESTUS AWUAH KWOFIE,New Patriotic Party (NPP),UPPER DENKYIRA EAST Constituency
 40,DANIEL OHENE DARKO,National Democratic Congress (NDC),UPPER DENKYIRA WEST Constituency
@@ -48,7 +49,6 @@ id,name,party,constituency
 65,ISAAC ASHAI ODAMTTEN,National Democratic Congress (NDC),TEMA EAST Constituency
 66,YVES HANSON-NORTEY,New Patriotic Party (NPP),TEMA CENTRAL Constituency
 67,CARLOS KINGSLEY AHENKORAH,New Patriotic Party (NPP),TEMA WEST Constituency
-70,MOHAMMED ADAMU RAMADAN,National Democratic Congress (NDC),ADENTAN Constituency
 71,LINDA OBENEWAA AKWELEY OCLOO,National Democratic Congress (NDC),SHAI-OSUDOKU Constituency
 72,SAMUEL NARTEY GEORGE,National Democratic Congress (NDC),NINGO-PRAMPRAM Constituency
 73,CHRISTIAN CORLEYTEY OTUTEYE,National Democratic Congress (NDC),SEGE Constituency
@@ -137,7 +137,6 @@ id,name,party,constituency
 214,WISDOM GIDISU,National Democratic Congress (NDC),KRACHI EAST Constituency
 215,HELEN ADJOA NTOSO,National Democratic Congress (NDC),KRACHI WEST Constituency
 217,GEOFFREY KINI,National Democratic Congress (NDC),NKWANTA SOUTH Constituency
-218,JOHN KWABENA BLESS OTI,National Democratic Congress (NDC),NKWANTA NORTH Constituency
 219,DANIEL NSALA WAKPAL,National Democratic Congress (NDC),KPANDAI Constituency
 221,ABUKARI DAWUNI,National Democratic Congress (NDC),WULENSI Constituency
 222,JABAAH JOHN BENNAM,New Patriotic Party (NPP),ZABZUGU Constituency
@@ -161,6 +160,7 @@ id,name,party,constituency
 249,CLETUS SEIDU DAPILAH,National Democratic Congress (NDC),JIRAPA Constituency
 251,BEDE ANWATAAZUMO ZIEDENG,National Democratic Congress (NDC),LAWRA Constituency
 252,DERY AMBROSE,New Patriotic Party (NPP),NANDOM Constituency
+253,MOHAMMED ADAMS SUKPARU,National Democratic Congress (NDC),SISSALA WEST Constituency
 255,LARIBA ZUWEIRA ABUDU,New Patriotic Party (NPP),WALEWALE Constituency
 257,ISSIFU SEIDU,National Democratic Congress (NDC),NALERIGU/GAMBAGA Constituency
 258,ABED-NEGO BANDIM,National Democratic Congress (NDC),BUNKPURUGU Constituency
