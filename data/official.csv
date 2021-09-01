@@ -104,11 +104,9 @@ id,name,party,constituency
 149,OSEI KYEI-MENSAH-BONSU,New Patriotic Party (NPP),SUAME Constituency
 150,PATRICIA APPIAGYEI,New Patriotic Party (NPP),ASOKWA Constituency
 151,EMMANUEL MARFO,New Patriotic Party (NPP),OFORIKROM Constituency
-152,MOHAMMED MUBARAK MUNTAKA,National Democratic Congress (NDC),ASAWASE Constituency
 153,FRANCISCA OTENG MENSAH,New Patriotic Party (NPP),KWABRE EAST Constituency
 154,WILLIAM OWURAKU AIDOO,New Patriotic Party (NPP),AFIGYA KWABRE SOUTH Constituency
 155,COLLINS ADOMAKO-MENSAH,New Patriotic Party (NPP),AFIGYA KWABRE NORTH Constituency
-157,JOHN AMPONTUAH KUMAH,New Patriotic Party (NPP),EJISU Constituency
 161,NANA AYEW AFRIYE,New Patriotic Party (NPP),EFFIDUASE/ASOKORE Constituency
 162,PHILIP BASOAH,New Patriotic Party (NPP),KUMAWU Constituency
 166,BAWAH MUHAMMAD BRIAMAH,National Democratic Congress (NDC),EJURA SEKYEREDUMASE Constituency
@@ -138,6 +136,7 @@ id,name,party,constituency
 214,WISDOM GIDISU,National Democratic Congress (NDC),KRACHI EAST Constituency
 215,HELEN ADJOA NTOSO,National Democratic Congress (NDC),KRACHI WEST Constituency
 217,GEOFFREY KINI,National Democratic Congress (NDC),NKWANTA SOUTH Constituency
+218,JOHN KWABENA BLESS OTI,National Democratic Congress (NDC),NKWANTA NORTH Constituency
 219,DANIEL NSALA WAKPAL,National Democratic Congress (NDC),KPANDAI Constituency
 221,ABUKARI DAWUNI,National Democratic Congress (NDC),WULENSI Constituency
 222,JABAAH JOHN BENNAM,New Patriotic Party (NPP),ZABZUGU Constituency
@@ -161,6 +160,7 @@ id,name,party,constituency
 249,CLETUS SEIDU DAPILAH,National Democratic Congress (NDC),JIRAPA Constituency
 251,BEDE ANWATAAZUMO ZIEDENG,National Democratic Congress (NDC),LAWRA Constituency
 252,DERY AMBROSE,New Patriotic Party (NPP),NANDOM Constituency
+253,MOHAMMED ADAMS SUKPARU,National Democratic Congress (NDC),SISSALA WEST Constituency
 255,LARIBA ZUWEIRA ABUDU,New Patriotic Party (NPP),WALEWALE Constituency
 257,ISSIFU SEIDU,National Democratic Congress (NDC),NALERIGU/GAMBAGA Constituency
 258,ABED-NEGO BANDIM,National Democratic Congress (NDC),BUNKPURUGU Constituency
