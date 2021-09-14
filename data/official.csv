@@ -49,6 +49,7 @@ id,name,party,constituency
 65,ISAAC ASHAI ODAMTTEN,National Democratic Congress (NDC),TEMA EAST Constituency
 66,YVES HANSON-NORTEY,New Patriotic Party (NPP),TEMA CENTRAL Constituency
 67,CARLOS KINGSLEY AHENKORAH,New Patriotic Party (NPP),TEMA WEST Constituency
+70,MOHAMMED ADAMU RAMADAN,National Democratic Congress (NDC),ADENTAN Constituency
 71,LINDA OBENEWAA AKWELEY OCLOO,National Democratic Congress (NDC),SHAI-OSUDOKU Constituency
 72,SAMUEL NARTEY GEORGE,National Democratic Congress (NDC),NINGO-PRAMPRAM Constituency
 73,CHRISTIAN CORLEYTEY OTUTEYE,National Democratic Congress (NDC),SEGE Constituency
@@ -103,20 +104,20 @@ id,name,party,constituency
 149,OSEI KYEI-MENSAH-BONSU,New Patriotic Party (NPP),SUAME Constituency
 150,PATRICIA APPIAGYEI,New Patriotic Party (NPP),ASOKWA Constituency
 151,EMMANUEL MARFO,New Patriotic Party (NPP),OFORIKROM Constituency
-152,MOHAMMED MUBARAK MUNTAKA,National Democratic Congress (NDC),ASAWASE Constituency
 153,FRANCISCA OTENG MENSAH,New Patriotic Party (NPP),KWABRE EAST Constituency
 154,WILLIAM OWURAKU AIDOO,New Patriotic Party (NPP),AFIGYA KWABRE SOUTH Constituency
 155,COLLINS ADOMAKO-MENSAH,New Patriotic Party (NPP),AFIGYA KWABRE NORTH Constituency
+157,JOHN AMPONTUAH KUMAH,New Patriotic Party (NPP),EJISU Constituency
 161,NANA AYEW AFRIYE,New Patriotic Party (NPP),EFFIDUASE/ASOKORE Constituency
 162,PHILIP BASOAH,New Patriotic Party (NPP),KUMAWU Constituency
 166,BAWAH MUHAMMAD BRIAMAH,National Democratic Congress (NDC),EJURA SEKYEREDUMASE Constituency
 167,MAVIS NKANSAH-BOADU,New Patriotic Party (NPP),AFIGYA SEKYERE EAST Constituency
 168,ISAAC YAW OPOKU,New Patriotic Party (NPP),OFFINSO SOUTH Constituency
+169,COLLINS AUGUSTINE NTIM,New Patriotic Party (NPP),OFFINSO NORTH Constituency
 171,FRANCIS MANU-ADABOR,New Patriotic Party (NPP),AHAFO ANO SOUTH EAST Constituency
 173,OSCAR OFORI LARBI,National Democratic Congress (NDC),AOWIN Constituency
 179,SAMPSON AHI,National Democratic Congress (NDC),BODI Constituency
 181,Richard Acheampong,National Democratic Congress (NDC),BIA EAST Constituency
-184,COLLINS DAUDA,National Democratic Congress (NDC),ASUTIFI SOUTH Constituency
 185,PATRICK BANOR,New Patriotic Party (NPP),ASUTIFI NORTH Constituency
 186,BENJAMIN SEKYERE YEBOAH,New Patriotic Party (NPP),TANO SOUTH Constituency
 187,FREDA PREMPEH,New Patriotic Party (NPP),TANO NORTH Constituency
@@ -136,7 +137,6 @@ id,name,party,constituency
 214,WISDOM GIDISU,National Democratic Congress (NDC),KRACHI EAST Constituency
 215,HELEN ADJOA NTOSO,National Democratic Congress (NDC),KRACHI WEST Constituency
 217,GEOFFREY KINI,National Democratic Congress (NDC),NKWANTA SOUTH Constituency
-218,JOHN KWABENA BLESS OTI,National Democratic Congress (NDC),NKWANTA NORTH Constituency
 219,DANIEL NSALA WAKPAL,National Democratic Congress (NDC),KPANDAI Constituency
 221,ABUKARI DAWUNI,National Democratic Congress (NDC),WULENSI Constituency
 222,JABAAH JOHN BENNAM,New Patriotic Party (NPP),ZABZUGU Constituency
