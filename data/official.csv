@@ -105,11 +105,9 @@ id,name,party,constituency
 149,OSEI KYEI-MENSAH-BONSU,New Patriotic Party (NPP),SUAME Constituency
 150,PATRICIA APPIAGYEI,New Patriotic Party (NPP),ASOKWA Constituency
 151,EMMANUEL MARFO,New Patriotic Party (NPP),OFORIKROM Constituency
-152,MOHAMMED MUBARAK MUNTAKA,National Democratic Congress (NDC),ASAWASE Constituency
 153,FRANCISCA OTENG MENSAH,New Patriotic Party (NPP),KWABRE EAST Constituency
 154,WILLIAM OWURAKU AIDOO,New Patriotic Party (NPP),AFIGYA KWABRE SOUTH Constituency
 155,COLLINS ADOMAKO-MENSAH,New Patriotic Party (NPP),AFIGYA KWABRE NORTH Constituency
-157,JOHN AMPONTUAH KUMAH,New Patriotic Party (NPP),EJISU Constituency
 161,NANA AYEW AFRIYE,New Patriotic Party (NPP),EFFIDUASE/ASOKORE Constituency
 162,PHILIP BASOAH,New Patriotic Party (NPP),KUMAWU Constituency
 166,BAWAH MUHAMMAD BRIAMAH,National Democratic Congress (NDC),EJURA SEKYEREDUMASE Constituency
@@ -138,6 +136,7 @@ id,name,party,constituency
 214,WISDOM GIDISU,National Democratic Congress (NDC),KRACHI EAST Constituency
 215,HELEN ADJOA NTOSO,National Democratic Congress (NDC),KRACHI WEST Constituency
 217,GEOFFREY KINI,National Democratic Congress (NDC),NKWANTA SOUTH Constituency
+218,JOHN KWABENA BLESS OTI,National Democratic Congress (NDC),NKWANTA NORTH Constituency
 219,DANIEL NSALA WAKPAL,National Democratic Congress (NDC),KPANDAI Constituency
 221,ABUKARI DAWUNI,National Democratic Congress (NDC),WULENSI Constituency
 222,JABAAH JOHN BENNAM,New Patriotic Party (NPP),ZABZUGU Constituency
@@ -145,6 +144,7 @@ id,name,party,constituency
 224,UMAR FAROUK ALIU MAHAMA,New Patriotic Party (NPP),YENDI Constituency
 225,ABDUL-AZIZ AYABA MUSAH,New Patriotic Party (NPP),MION Constituency
 229,IDDRISS JACOB ABDULAI,National Democratic Congress (NDC),SAVELEGU Constituency
+230,MOHAMMED HARDI TUFEIRU,New Patriotic Party (NPP),NANTON Constituency
 231,HARUNA IDDRISU,National Democratic Congress (NDC),TAMALE SOUTH Constituency
 232,IBRAHIM MURTALA MUHAMMED,National Democratic Congress (NDC),TAMALE CENTRAL Constituency
 235,HABIB IDDRISU,New Patriotic Party (NPP),TOLON Constituency
