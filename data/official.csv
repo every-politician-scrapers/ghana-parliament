@@ -1,11 +1,11 @@
 id,name,party,constituency
+2,EMMANUEL ARMAH-KOFI BUAH,National Democratic Congress (NDC),ELLEMBELE Constituency
 3,KOFI ARKO NOKOE,National Democratic Congress (NDC),EVALUE-AJOMORO-GWIRA Constituency
 4,EBENEZER KOJO KUM,New Patriotic Party (NPP),AHANTA WEST Constituency
 7,PRINCE HAMIDU ARMAH,New Patriotic Party (NPP),KWESIMINTSIM Constituency
 9,JOE GHARTEY,New Patriotic Party (NPP),ESSlKADO-KETAN Constituency
 10,SAMUEL ERICKSON ABAKAH,New Patriotic Party (NPP),SHAMA Constituency
 11,ISAAC ADJEI MENSAH,National Democratic Congress (NDC),WASSA EAST Constituency
-12,JOHN KOBINA ABBAM ABOAH SANIE,New Patriotic Party (NPP),MPOHOR Constituency
 13,GEORGE MIREKU DUKER,New Patriotic Party (NPP),TARKWA NSUAEM Constituency
 14,ROBERT WISDOM CUDJOE,National Democratic Congress (NDC),PRESTEA HUNI-VALLEY Constituency
 15,NICHOLAS AMANKWAH,National Democratic Congress (NDC),AMENFI EAST Constituency
@@ -62,7 +62,6 @@ id,name,party,constituency
 83,SAMUEL OKUDZETO ABLAKWA,National Democratic Congress (NDC),NORTH TONGU Constituency
 85,CHARLES AKWASI AGBEVE,National Democratic Congress (NDC),AGOTIME-ZIOPE Constituency
 86,BENJAMlN KOMLA KPODO,National Democratic Congress (NDC),HO CENTRAL Constituency
-87,EMMANUEL KWASI BEDZRAH,National Democratic Congress (NDC),HO WEST Constituency
 88,ROCKSON-NELSON ETSE KWAMl DAFEAMEKPOR,National Democratic Congress (NDC),SOUTH DAYI Constituency
 93,THOMAS NYARKO AMPEM,National Democratic Congress (NDC),ASUOGYAMAN Constituency
 94,Ebenezer OKLETEY Terlabi,National Democratic Congress (NDC),LOWER ?? Constituency
@@ -109,6 +108,7 @@ id,name,party,constituency
 153,FRANCISCA OTENG MENSAH,New Patriotic Party (NPP),KWABRE EAST Constituency
 154,WILLIAM OWURAKU AIDOO,New Patriotic Party (NPP),AFIGYA KWABRE SOUTH Constituency
 155,COLLINS ADOMAKO-MENSAH,New Patriotic Party (NPP),AFIGYA KWABRE NORTH Constituency
+157,JOHN AMPONTUAH KUMAH,New Patriotic Party (NPP),EJISU Constituency
 161,NANA AYEW AFRIYE,New Patriotic Party (NPP),EFFIDUASE/ASOKORE Constituency
 162,PHILIP BASOAH,New Patriotic Party (NPP),KUMAWU Constituency
 166,BAWAH MUHAMMAD BRIAMAH,National Democratic Congress (NDC),EJURA SEKYEREDUMASE Constituency
