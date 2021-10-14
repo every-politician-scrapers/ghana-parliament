@@ -6,6 +6,7 @@ id,name,party,constituency
 9,JOE GHARTEY,New Patriotic Party (NPP),ESSlKADO-KETAN Constituency
 10,SAMUEL ERICKSON ABAKAH,New Patriotic Party (NPP),SHAMA Constituency
 11,ISAAC ADJEI MENSAH,National Democratic Congress (NDC),WASSA EAST Constituency
+12,JOHN KOBINA ABBAM ABOAH SANIE,New Patriotic Party (NPP),MPOHOR Constituency
 13,GEORGE MIREKU DUKER,New Patriotic Party (NPP),TARKWA NSUAEM Constituency
 14,ROBERT WISDOM CUDJOE,National Democratic Congress (NDC),PRESTEA HUNI-VALLEY Constituency
 15,NICHOLAS AMANKWAH,National Democratic Congress (NDC),AMENFI EAST Constituency
@@ -48,6 +49,7 @@ id,name,party,constituency
 65,ISAAC ASHAI ODAMTTEN,National Democratic Congress (NDC),TEMA EAST Constituency
 66,YVES HANSON-NORTEY,New Patriotic Party (NPP),TEMA CENTRAL Constituency
 67,CARLOS KINGSLEY AHENKORAH,New Patriotic Party (NPP),TEMA WEST Constituency
+70,MOHAMMED ADAMU RAMADAN,National Democratic Congress (NDC),ADENTAN Constituency
 71,LINDA OBENEWAA AKWELEY OCLOO,National Democratic Congress (NDC),SHAI-OSUDOKU Constituency
 72,SAMUEL NARTEY GEORGE,National Democratic Congress (NDC),NINGO-PRAMPRAM Constituency
 73,CHRISTIAN CORLEYTEY OTUTEYE,National Democratic Congress (NDC),SEGE Constituency
@@ -89,7 +91,6 @@ id,name,party,constituency
 126,ABDUL-SALAM ADAMS,National Democratic Congress (NDC),NEW EDUBIASE Constituency
 129,KOBINA TAHIR HAMMOND,New Patriotic Party (NPP),ADANSI ASOKWA Constituency
 131,PATRICK BOAKYE-YIADOM,New Patriotic Party (NPP),OBUASI EAST Constituency
-134,EMMANUEL AKWASI GYAMFI,New Patriotic Party (NPP),ODOTOBIRI Constituency
 135,GEORGE KWABENA OBENG TAKYI,New Patriotic Party (NPP),MANSO NKWANTA Constituency
 136,YAW FRIMPONG ADDO,New Patriotic Party (NPP),MANSO ADUBIA Constituency
 138,BENITO OWUSU-BIO,New Patriotic Party (NPP),ATWIMA NWABIAGYA NORTH Constituency
@@ -102,11 +103,10 @@ id,name,party,constituency
 148,VINCENT EKOW ASSAFUAH,New Patriotic Party (NPP),OLD TAFO Constituency
 149,OSEI KYEI-MENSAH-BONSU,New Patriotic Party (NPP),SUAME Constituency
 150,PATRICIA APPIAGYEI,New Patriotic Party (NPP),ASOKWA Constituency
-152,MOHAMMED MUBARAK MUNTAKA,National Democratic Congress (NDC),ASAWASE Constituency
+151,EMMANUEL MARFO,New Patriotic Party (NPP),OFORIKROM Constituency
 153,FRANCISCA OTENG MENSAH,New Patriotic Party (NPP),KWABRE EAST Constituency
 154,WILLIAM OWURAKU AIDOO,New Patriotic Party (NPP),AFIGYA KWABRE SOUTH Constituency
 155,COLLINS ADOMAKO-MENSAH,New Patriotic Party (NPP),AFIGYA KWABRE NORTH Constituency
-157,JOHN AMPONTUAH KUMAH,New Patriotic Party (NPP),EJISU Constituency
 161,NANA AYEW AFRIYE,New Patriotic Party (NPP),EFFIDUASE/ASOKORE Constituency
 162,PHILIP BASOAH,New Patriotic Party (NPP),KUMAWU Constituency
 166,BAWAH MUHAMMAD BRIAMAH,National Democratic Congress (NDC),EJURA SEKYEREDUMASE Constituency
