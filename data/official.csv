@@ -6,6 +6,7 @@ id,name,party,constituency
 9,JOE GHARTEY,New Patriotic Party (NPP),ESSlKADO-KETAN Constituency
 10,SAMUEL ERICKSON ABAKAH,New Patriotic Party (NPP),SHAMA Constituency
 11,ISAAC ADJEI MENSAH,National Democratic Congress (NDC),WASSA EAST Constituency
+12,JOHN KOBINA ABBAM ABOAH SANIE,New Patriotic Party (NPP),MPOHOR Constituency
 13,GEORGE MIREKU DUKER,New Patriotic Party (NPP),TARKWA NSUAEM Constituency
 14,ROBERT WISDOM CUDJOE,National Democratic Congress (NDC),PRESTEA HUNI-VALLEY Constituency
 15,NICHOLAS AMANKWAH,National Democratic Congress (NDC),AMENFI EAST Constituency
@@ -62,6 +63,7 @@ id,name,party,constituency
 83,SAMUEL OKUDZETO ABLAKWA,National Democratic Congress (NDC),NORTH TONGU Constituency
 85,CHARLES AKWASI AGBEVE,National Democratic Congress (NDC),AGOTIME-ZIOPE Constituency
 86,BENJAMlN KOMLA KPODO,National Democratic Congress (NDC),HO CENTRAL Constituency
+87,EMMANUEL KWASI BEDZRAH,National Democratic Congress (NDC),HO WEST Constituency
 88,ROCKSON-NELSON ETSE KWAMl DAFEAMEKPOR,National Democratic Congress (NDC),SOUTH DAYI Constituency
 93,THOMAS NYARKO AMPEM,National Democratic Congress (NDC),ASUOGYAMAN Constituency
 94,Ebenezer OKLETEY Terlabi,National Democratic Congress (NDC),LOWER ?? Constituency
@@ -91,7 +93,6 @@ id,name,party,constituency
 131,PATRICK BOAKYE-YIADOM,New Patriotic Party (NPP),OBUASI EAST Constituency
 135,GEORGE KWABENA OBENG TAKYI,New Patriotic Party (NPP),MANSO NKWANTA Constituency
 136,YAW FRIMPONG ADDO,New Patriotic Party (NPP),MANSO ADUBIA Constituency
-137,EMMANUEL AGYEI ANHWERE,New Patriotic Party (NPP),ATWIMA NWABIAGYA SOUTH Constituency
 138,BENITO OWUSU-BIO,New Patriotic Party (NPP),ATWIMA NWABIAGYA NORTH Constituency
 139,ISAAC KWAME ASIAMAH,New Patriotic Party (NPP),ATWIMA MPONUA Constituency
 140,YAW OSEI ADUTWUM,New Patriotic Party (NPP),BOSOMTWE Constituency
@@ -152,7 +153,6 @@ id,name,party,constituency
 237,YUSIF SULEMANA,National Democratic Congress (NDC),BOLE BAMBOI Constituency
 239,SAMUEL ABDULAI JINAPOR,New Patriotic Party (NPP),DAMONGO Constituency
 240,MAHAMA ASEI SEINI,New Patriotic Party (NPP),DABOYA/MANKARIGU Constituency
-241,John Abdulai Jinapor,National Democratic Congress (NDC),YAPEI KUSAWGU Constituency
 242,ZUWERA MOHAMMED IBRAHIMAH,National Democratic Congress (NDC),SALAGA SOUTH Constituency
 244,ABDUL-RASHID HASSAN PELPUO,National Democratic Congress (NDC),WA CENTRAL Constituency
 245,PETER LANCHENE TOOBU,National Democratic Congress (NDC),WA WEST Constituency
